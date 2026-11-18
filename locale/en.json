@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Emoji panel",
+    "description": "Adds an emoji button to the left of the message composer. It opens a popover above the input with category tabs, an always-visible search box, and a scrollable grid: over 200 Unicode emoji, a Recent tab, and a Mine tab where you import local images or image URLs as custom memes. Each imported meme needs a one-line meaning; clicking it inserts [meme: meaning] text, which is what the model reads — the image itself is not sent. Emoji insert at the cursor without replacing your draft; click outside or press Esc to close. Stored in browser local storage only."
+  }
+}

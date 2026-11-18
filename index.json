@@ -1,0 +1,41 @@
+{
+  "format": 1,
+  "title": {
+    "en": "dsh-emoji-panel",
+    "zh": "表情面板"
+  },
+  "plugins": [
+    {
+      "name": "dsh-emoji-panel",
+      "title": {
+        "en": "Emoji panel",
+        "zh": "表情面板"
+      },
+      "description": {
+        "en": "Emoji picker for the DeepSeek Harness composer: category tabs, permanent search, recents, and your own meme library with captions the model can read.",
+        "zh": "输入框表情面板：分类标签 + 常驻搜索 + 最近使用 + 自定义表情库（导入图片并写一句含义）。"
+      },
+      "icon": "icon.svg",
+      "author": "BadWolfZXY",
+      "homepage": "https://github.com/BadWolfZXY/dsh-emoji-panel#readme",
+      "repository": {
+        "url": "https://github.com/BadWolfZXY/dsh-emoji-panel"
+      },
+      "metadata": {
+        "category": "ui"
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 1794998046,
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.1 <0.3.0"
+          }
+        }
+      ]
+    }
+  ]
+}

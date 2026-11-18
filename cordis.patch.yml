@@ -1,0 +1,6 @@
+# Emoji panel bundle patch.
+# Row `name` must be the real package name (cordis imports the package by name);
+# `id` is only the patch row key and must stay stable across upgrades.
+- insert:
+    - id: emoji-panel
+      name: dsh-emoji-panel
